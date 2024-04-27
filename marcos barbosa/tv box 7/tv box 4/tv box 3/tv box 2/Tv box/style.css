@@ -1,0 +1,156 @@
+body{
+
+
+    background-image:url("./01778aee14211cfd2a7835d9317fabed.jpg")
+} 
+header{
+    
+    text-align: center;
+}
+img{
+
+
+
+
+
+
+
+    width: 150 px;
+    height: 150px;
+    border-radius:50%;
+    border: 5px solid;
+
+
+}
+.um{
+    text-align: center;
+}
+
+.numero-um{
+    text-align: center;
+    padding: 10px;
+    line-height: 10px;
+    cursor: pointer;
+}
+
+.numero-dois{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+
+    
+    
+    
+}
+
+body{
+    
+    height: 100vh;
+
+}
+
+.numero-tres{
+    position: relative;
+    z-index: -1;
+    
+    height: 100%;
+    width: 100%;}
+    
+    
+    
+
+.numero-cinco{
+    color:white;
+}
+button{
+    color: white;
+    
+    height: 30px;
+    border: none;
+    cursor: pointer;
+    background-color:blue;
+    border-radius: 3px;
+    width: 200px;
+    height: 50px;
+    font-weight: bold;
+}
+video{
+    width: 100vw;
+    height: 100vh;
+}
+.numero-seis{
+    color:yellow;
+}
+body{
+    color: red;
+}
+
+.numero-um{
+    
+ line-height: 0;
+ width: 1100px;
+ height: 50px;
+ border: 100px solid;
+ border-color:black;
+ background-color:black;
+ padding: 15px;
+ line-height: 20px;
+ 
+}
+
+.formulario{
+    background-color: wheat;
+    display: flex;
+    flex-direction: column;
+    position: fixed;
+    top: 50px;
+    left:50px ;
+    padding: 20px;
+    border-radius: 5px;
+    gap: 20px;
+    top: 30%;
+    left: -380px;
+    cursor: pointer;
+    transition: left 1s ease-in-out;
+
+}
+
+input{
+    height: 40px;
+    border-radius: 5px;
+    border: 1px solid gray;
+    padding-left: 5px;
+    outline-color: blue;
+
+
+}
+ textarea{
+    border-radius: 5px;
+    border: 1px solid gray;
+    padding-left: 5px;
+    outline-color: blue;
+    height: 100px;
+    width: 200px;
+
+ }
+
+ 
+    
+ 
+    
+.numero-oito{
+    cursor: pointer;
+}
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+
+
+    
